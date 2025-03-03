@@ -4,7 +4,7 @@
 
 借助 Bright Data 先进的 CAPTCHA 解决技术，轻松绕过 hCaptcha 验证码。通过使用机器学习算法、[自动 IP 轮换](https://www.bright.cn/solutions/rotating-proxies)以及强大的代理基础设施，确保对目标站点的无缝稳定访问。  
 
-Bright Data 的 CAPTCHA Solver 内置于 [**抓取浏览器**](https://www.bright.cn/products/scraping-browser) 和 [**Web Unlocker API**](https://www.bright.cn/products/web-unlocker) 中，为处理最复杂的验证码挑战提供完整解决方案。  
+Bright Data 的 CAPTCHA Solver 内置于 [**抓取浏览器**](https://www.bright.cn/products/scraping-browser) 和 [**网络解锁器 API**](https://www.bright.cn/products/web-unlocker) 中，为处理最复杂的验证码挑战提供完整解决方案。  
 
 ---
 
